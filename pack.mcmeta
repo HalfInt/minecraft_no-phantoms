@@ -1,0 +1,6 @@
+{
+   "pack":{
+      "pack_format":3,
+      "description":"Removes Phantoms as soon as they spawn."
+   }
+}
