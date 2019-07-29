@@ -17,5 +17,6 @@ This datapack removes the phantom mob from gameplay by teleporting them below th
 - You can not get the phantom membrane as a drop from phantoms and thus not brew slow falling potions.
 
 ## Version History
-1.0.0 for Minecraft 1.13.2
+1.0.0 for Minecraft 1.13.2 - 1.14.4
 - first functional and tested version
+- tested for Minecraft 1.14.4
