@@ -20,3 +20,5 @@ This datapack removes the phantom mob from gameplay by teleporting them below th
 1.0.0 for Minecraft 1.13.2 - 1.14.4
 - first functional and tested version
 - tested for Minecraft 1.14.4
+
+Now Discontinued: Identical functionality has been integrated into the game with the `doInsomnia` Gamerule.
